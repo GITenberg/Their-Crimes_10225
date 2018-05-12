@@ -1,5 +1,5 @@
 _repo: Their-Crimes_10225
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Mirman, Léon
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1949
     gutenberg_agent_id: '40710'
     url: http://www.gutenberg.org/2009/agents/40710
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Adams, J. Esslemont
     gutenberg_agent_id: '40711'
     url: http://www.gutenberg.org/2009/agents/40711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10225#Their-Crimes
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
